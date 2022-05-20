@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/randomness-pack-of-cards/issues"
   },
-  "homepage": "https://github.com/sammic297/randomness-pack-of-cards#readme"
+  "homepage": "https://github.com/sammic297/randomness-pack-of-cards#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }
